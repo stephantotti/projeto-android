@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyShoppingList</string>
+    <string name="item_editText_hint" />
+    <string name="add_button_text" />
+</resources>
